@@ -19,5 +19,5 @@ con.close()
 
 df.columns = columns
 
-df
+print(df.head())
 
